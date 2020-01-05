@@ -1,8 +1,7 @@
 <h1 align="center"> HandWritten Digit Recognistion of MNIST Dataset </h1>
 
-[Notebook link](https://github.com/veeravignesh1/DeepLearning/blob/master/MNIST%20Classification-MLP-Pytorch.ipynb)
 
-In this notebook we have understood the image classification task in pytorch
+In this [notebook](https://github.com/veeravignesh1/DeepLearning/blob/master/MNIST%20Classification-MLP-Pytorch.ipynb) we have understood the image classification task in pytorch.<br>
 Tuning the various hyper parameters of the model the accuracy metric was measured.
 
 ## Model Hyper Parameter
