@@ -7,10 +7,10 @@ Tuning the various hyper parameters of the model the accuracy metric was measure
 
 ## Model Hyper Parameter
 - Number of Epoch
-- Activation Function
-- Optimizer
-- Number of Hidden Layers
-- Number of Neurons in the Hidden Layer
+- Activation Function (Relu, Leaky_Relu)
+- Optimizer (Adam, SGD)
+- Number of Hidden Layers (1,2,3)
+- Number of Neurons in the Hidden Layer (25,50,100,256)
 
 ## Results
 
