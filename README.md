@@ -23,4 +23,4 @@ Tuning the various hyper parameters of the model the accuracy metric was measure
 | 84060      | 97.00%   |
 | 242762     | 97.40%   |
 
-Detailed [model parameter monitoring sheet]()
+Detailed [model parameter monitoring sheet](https://github.com/veeravignesh1/DeepLearning/blob/master/model_monitor.xlsx)
